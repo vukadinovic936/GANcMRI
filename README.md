@@ -28,5 +28,7 @@ Step 5:
 
 Run All cells, the demo will be displayed in the last one
 
+![alt text](https://github.com/vukadinovic936/GANcMRI/Demo.png)
+
 ## Inquiries
 For inquiries about the repository, please create a GitHub issue.
